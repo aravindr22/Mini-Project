@@ -1,3 +1,7 @@
 images/
 x_data.npy
 y_data.npy
+model/
+final_model.h5
+x128_data.npy
+y128_data.npy
